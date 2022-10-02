@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ts.robot.input.InputParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-02T20:42:20" hostname="toqeer-Latitude-E6540" time="0.026">
+  <properties/>
+  <testcase name="parseValidInput()" classname="org.ts.robot.input.InputParserTest" time="0.02"/>
+  <testcase name="parseInValidGridBounds()" classname="org.ts.robot.input.InputParserTest" time="0.002"/>
+  <testcase name="parseInValidOrientation()" classname="org.ts.robot.input.InputParserTest" time="0.002"/>
+  <testcase name="parseInValidInstruction()" classname="org.ts.robot.input.InputParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

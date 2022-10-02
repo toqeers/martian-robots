@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ts.robot.instruction.TurnLeftTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-02T20:42:20" hostname="toqeer-Latitude-E6540" time="0.004">
+  <properties/>
+  <testcase name="turnLeftFromEast()" classname="org.ts.robot.instruction.TurnLeftTest" time="0.001"/>
+  <testcase name="turnLeftFromWest()" classname="org.ts.robot.instruction.TurnLeftTest" time="0.0"/>
+  <testcase name="turnLeftFromNorth()" classname="org.ts.robot.instruction.TurnLeftTest" time="0.0"/>
+  <testcase name="turnLeftFromSouth()" classname="org.ts.robot.instruction.TurnLeftTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
